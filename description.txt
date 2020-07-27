@@ -1,1 +1,0 @@
-Movie Revenue application uses Windows Form to emulate a Movie Revenue system that sorts and searches a list of movies either by revenue or name. Furthermore, if the value does not match the value entered, it shows the closest one.
