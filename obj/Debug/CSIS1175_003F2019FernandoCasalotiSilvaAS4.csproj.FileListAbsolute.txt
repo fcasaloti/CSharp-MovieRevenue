@@ -37,3 +37,13 @@ C:\Users\fcasa\OneDrive\DouglasCollege\2019 - FALL\CSIS\Assignments\Assignment 4
 C:\Users\fcasa\OneDrive\DouglasCollege\2019 - FALL\CSIS\Assignments\Assignment 4\Deliverables\AS4\AS4\obj\Debug\CSIS1175_003F2019FernandoCasalotiSilvaAS4.csproj.CoreCompileInputs.cache
 C:\Users\fcasa\OneDrive\DouglasCollege\2019 - FALL\CSIS\Assignments\Assignment 4\Deliverables\AS4\AS4\obj\Debug\CSIS1175_003F2019FernandoCasalotiSilvaAS4.exe
 C:\Users\fcasa\OneDrive\DouglasCollege\2019 - FALL\CSIS\Assignments\Assignment 4\Deliverables\AS4\AS4\obj\Debug\CSIS1175_003F2019FernandoCasalotiSilvaAS4.pdb
+X:\DouglasCollege\2019 - FALL\CSIS\Assignments\Assignment 4\Deliverables\AS4\AS4\bin\Debug\CSIS1175_003F2019FernandoCasalotiSilvaAS4.exe.config
+X:\DouglasCollege\2019 - FALL\CSIS\Assignments\Assignment 4\Deliverables\AS4\AS4\bin\Debug\CSIS1175_003F2019FernandoCasalotiSilvaAS4.exe
+X:\DouglasCollege\2019 - FALL\CSIS\Assignments\Assignment 4\Deliverables\AS4\AS4\bin\Debug\CSIS1175_003F2019FernandoCasalotiSilvaAS4.pdb
+X:\DouglasCollege\2019 - FALL\CSIS\Assignments\Assignment 4\Deliverables\AS4\AS4\obj\Debug\CSIS1175_003F2019FernandoCasalotiSilvaAS4.csprojAssemblyReference.cache
+X:\DouglasCollege\2019 - FALL\CSIS\Assignments\Assignment 4\Deliverables\AS4\AS4\obj\Debug\CSIS1175_003F2019FernandoCasalotiSilvaAS4.MainForm.resources
+X:\DouglasCollege\2019 - FALL\CSIS\Assignments\Assignment 4\Deliverables\AS4\AS4\obj\Debug\CSIS1175_003F2019FernandoCasalotiSilvaAS4.Properties.Resources.resources
+X:\DouglasCollege\2019 - FALL\CSIS\Assignments\Assignment 4\Deliverables\AS4\AS4\obj\Debug\CSIS1175_003F2019FernandoCasalotiSilvaAS4.csproj.GenerateResource.cache
+X:\DouglasCollege\2019 - FALL\CSIS\Assignments\Assignment 4\Deliverables\AS4\AS4\obj\Debug\CSIS1175_003F2019FernandoCasalotiSilvaAS4.csproj.CoreCompileInputs.cache
+X:\DouglasCollege\2019 - FALL\CSIS\Assignments\Assignment 4\Deliverables\AS4\AS4\obj\Debug\CSIS1175_003F2019FernandoCasalotiSilvaAS4.exe
+X:\DouglasCollege\2019 - FALL\CSIS\Assignments\Assignment 4\Deliverables\AS4\AS4\obj\Debug\CSIS1175_003F2019FernandoCasalotiSilvaAS4.pdb
